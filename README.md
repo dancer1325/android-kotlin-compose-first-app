@@ -1,5 +1,7 @@
 # Create your first Android App
-* Codelab [here](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app#0)
+* Codelabs
+  * [basic-android-kotlin-compose-first-app](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app#0)
+  * [basic-android-kotlin-compose-emulator](https://developer.android.com/codelabs/basic-android-kotlin-compose-emulator)
   * old legacy code [here](https://github.com/google-developer-training/basic-android-kotlin-compose-birthday-card-app)
 * goal
   * create Android App /
